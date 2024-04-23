@@ -1,0 +1,95 @@
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #f6d365;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1))
+}/* Custom Navbar */
+.custom-navbar {
+    background-color: #343a40; /* Dark background color */
+}
+
+.custom-navbar .navbar-brand {
+    font-size: 24px; /* Adjust the font size */
+}
+
+.custom-navbar .nav-link {
+    color: #ffffff; /* Text color */
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ffffff; /* Hover text color */
+}
+
+.custom-navbar .dropdown-menu {
+    background-color: #343a40; /* Dropdown background color */
+}
+
+.custom-navbar .dropdown-menu a {
+    color: #ffffff; /* Dropdown text color */
+}
+
+.custom-navbar .dropdown-menu a:hover {
+    background-color: #212529; /* Hover background color */
+}
+
+/* Account Dashboard */
+.account_dashboard {
+    margin-top: 80px; /* Adjust top margin */
+}
+
+.dashboard_tab_button {
+    background-color: #ffffff; /* Background color */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Padding */
+}
+
+.dashboard-list .nav-link {
+    color: #000000; /* Text color */
+}
+
+.dashboard-list .nav-link:hover {
+    color: #000000; /* Hover text color */
+}
+
+/* Card Styling */
+.card {
+    border: none; /* Remove border */
+}
+
+.gradient-custom {
+    background-image: linear-gradient(to right, #4e73df, #224abe); /* Gradient background */
+    padding: 20px; /* Padding */
+}
+
+.gradient-custom h5 {
+    color: #ffffff; /* Text color */
+}
+
+.gradient-custom p {
+    color: #ffffff; /* Text color */
+}
+
+.gradient-custom i {
+    color: #ffffff; /* Icon color */
+}
+
+.card-body {
+    padding: 1.25rem; /* Padding */
+}
+
+.card-body h6 {
+    color: #000000; /* Text color */
+}
+
+.card-body p {
+    color: #6c757d; /* Text color */
+}
+
+.card-body .fab {
+    color: #4e73df; /* Icon color */
+}
